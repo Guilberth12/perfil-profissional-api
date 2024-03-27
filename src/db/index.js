@@ -9,7 +9,7 @@ let db
 
 module.exports = {
     connect: async () => {
-        // console.log ("Tentanto comunicar com banco: ${}")
+        console.log ("Tentanto comunicar com banco: ${}")
         db = await mongoose.connect(URI)
         console.log("Conexão com o banco de dados estabelecida com sucesso!")
     },
