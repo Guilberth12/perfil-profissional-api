@@ -1,6 +1,5 @@
 # Perfil Profissional
 
-Projeto Perfil Profissional, implementado no modulo 2 do curso fábrica de programador em High Tech Cursos.
 
 Este projeto implementa uma **API** em **NodeJS**, utilizando *Express* como gerenciador de requisições **HTTP**, banco de dados não relacional **MongoDB** e o framework ODM **Mongoose** para intermediar a comunicação entre a aplicação e o banco de dados.
 
